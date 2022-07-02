@@ -1,16 +1,23 @@
 # Projects
 # uncomment the urls if you wish to display them, and add your own URL
 
-# jazznotes.io
-- project: jazznotes.io
-  role: Founder & Primary Developer
-  duration: 2012 &mdash; Present
+# Communtiy Resources
+- project: Resource Directory 
+  role: 
+  duration: 2021
   # url: "#"
-  description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
+  description: 
 
-# Springfield Community Outreach Group
-- project: Springfield Community Outreach Group
-  role: Co-Founder & Organizer
-  duration: 2007 &mdash; Present
+# Rehabilitation of Public Offenders
+- project: Chris Watts v. Colorado 
+  role: 
+  duration: 2020
   # url: "#"
-  description: SCOG is a local monthly meetup in Springfield where we share opportunities to volunteer in the community and organize support for families and neighborhoods in need of assistance that the community can provide.
+  description: I choose a type of criminal offense and had to find a real life example of that criminal offense, and had to create a presentation and paper about said criminal offense. Looking into if the offender can be rehabilitated and create my own program of rehabilitation for said crime.
+  
+# Pre-Practicum 
+- project: Juvenile Detention Effects on the Youth
+  role: 
+  duration: 2021
+  # url: "#" 
+  description: I did in-depth research presentation into Juvenile Dententio Centers (JDC). Looking at every different aspect of them, JDC's mission statements, JDC Inetentions, Mental Health effects, Future Employment, Long/Short term goals, etc. 
