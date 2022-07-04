@@ -2,22 +2,45 @@
 # uncomment the urls if you wish to display them, and add your own URL
 
 # Communtiy Resources
-- project: Resource Directory 
-  role: 
+- project: Resource Directory
+  role:
   duration: 2021
-  # url: "#"
-  description: 
+  # TODO CL: Link paper
+  # url: "https://jonathanloera.github.io/docs/resource-directory.pdf"
+  description: >
+    My resource directory is a paper I created that contains 30 different
+    resources that are intended help the community I would serve. Resources I
+    have are, local shelters, food shelfs, free clinics, employment services
+    and more. I did my research on the western Wisconsin area, as I'm
+    interested in working in this area; And this directory would be useful if I
+    encounter an individual who needs help.
 
 # Rehabilitation of Public Offenders
-- project: Chris Watts v. Colorado 
-  role: 
+- project: Chris Watts v. Colorado
+  role:
   duration: 2020
-  # url: "#"
-  description: I choose a type of criminal offense and had to find a real life example of that criminal offense, and had to create a presentation and paper about said criminal offense. Looking into if the offender can be rehabilitated and create my own program of rehabilitation for said crime.
-  
-# Pre-Practicum 
+  # TODO CL: Link paper
+  # url: "https://jonathanloera.github.io/docs/rehabilitation-of-public-offenders.pdf"
+  description: >
+    Choose a real life example of a criminal offense and created my own
+    rehabilitation program to see if the offender can be rehabilitated. The
+    case I choose was Chris Watts v. Colorado where Mr. Watts committed three
+    accounts of first degree murder. Throughout my research to create my
+    rehabilitation program, I found that there is no concrete rehabilitation
+    programs in place for offenders who have committed murder. I then created a
+    program using existing tools and services that could have success with the
+    rehabilitation of convicted murders.
+
+
+# Pre-Practicum
 - project: Juvenile Detention Effects on the Youth
-  role: 
+  role:
   duration: 2021
-  # url: "#" 
-  description: I did in-depth research presentation into Juvenile Dententio Centers (JDC). Looking at every different aspect of them, JDC's mission statements, JDC Inetentions, Mental Health effects, Future Employment, Long/Short term goals, etc. 
+  # url: "#"
+  description: >
+    Researched into Juvenile Detention Center (JDC) to see the different
+    aspects of how juveniles mental health, their education, and risk of being
+    a victim of violence/abuse is effected. Now in days juvenile courts are now
+    sentencing juveniles to rehabilitation programs rather than a JDC; Which is
+    a good thing to see change when having data to show that JDC has not been
+    the most effective.
