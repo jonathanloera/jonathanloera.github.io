@@ -1,16 +1,32 @@
 # Associations
 # comment out the urls if you do not wish to display them
 
-- organization: Minnesota State Fair 
-  role: Volunteer
-  year: 2019 Summer
-  url: https://www.mnstatefair.org/get-involved/volunteer/
-  summary: I work as a volunteer at the Minnesota State Fair. My job was to work at the ticket stand and make sure everyone who came thru had a stamp. It helped me develop more communication skills as I was talking to hundreds of people a day.
+- organization: Criminal Justice Student Association.
+  role: Member
+  year: 2022
+  url: https://connect.uwstout.edu/cjsa/home/
+  summary: >
+    In this association, I'm working towards getting helpful certificates as an
+    officer from my school as in how to administer CPR and Narcan. I'm involved
+    with the community doing volunteer work at soup kitchens, food shelf, and
+    shelters; And touring different facilities that work with hand in hand with
+    law enforcement.
 
-
-
-- organization: National Honors Society 
+- organization: National Honors Society
   role: Member
   year: 2016 &mdash; 2020
   url: https://www.nhs.us/
-  summary: I was in NHS for most of my high school and did a lot of volunteering jobs. This was my first experience with starting to work and helped me develop a good work ethic and being time organized as I had to balance real work, school, and volunteering. 
+  summary: >
+    While I was in NHS, I needed to do some volunteering work where I did
+    volunteered in my local Elementary school, grocery stores, and soccer camp.
+    There I helped teachers at their schools carnival, bagged groceries at the
+    store, and assisted on coaching at the soccer camp. This helped me develop
+    a good work ethic and being organized with time as I had to balance school,
+    volunteering, and work.
+
+- organization: Minnesota State Fair
+  role: Volunteer
+  year: 2019 Summer
+  url: https://www.mnstatefair.org/get-involved/volunteer/
+  summary: >
+    Developed better communication skills while working at the ticket stand.
