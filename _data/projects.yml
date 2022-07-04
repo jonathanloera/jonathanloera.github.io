@@ -5,8 +5,7 @@
 - project: Resource Directory
   role:
   duration: 2021
-  # TODO CL: Link paper
-  # url: "https://jonathanloera.github.io/docs/resource-directory.pdf"
+  url: "https://jonathanloera.github.io/docs/resource-directory.pdf"
   description: >
     My resource directory is a paper I created that contains 30 different
     resources that are intended help the community I would serve. Resources I
@@ -19,8 +18,7 @@
 - project: Chris Watts v. Colorado
   role:
   duration: 2020
-  # TODO CL: Link paper
-  # url: "https://jonathanloera.github.io/docs/rehabilitation-of-public-offenders.pdf"
+  url: "https://jonathanloera.github.io/docs/rehabilitation-of-public-offender.pdf"
   description: >
     Choose a real life example of a criminal offense and created my own
     rehabilitation program to see if the offender can be rehabilitated. The
